@@ -1,0 +1,11 @@
+p{
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+div{
+    background-color: grey;
+    color: white;
+}
